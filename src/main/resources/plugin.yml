@@ -1,0 +1,6 @@
+name: RemoveAnvilLimit
+version: '${project.version}'
+main: net.removeanvillimit.RemoveAnvilLimit
+author: Amps
+api-version: '1.21'
+description: A plugin to remove the "Too Expensive!" mechanic in the anvil.
