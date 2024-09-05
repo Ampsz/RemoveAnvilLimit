@@ -18,6 +18,4 @@ Once installed, the plugin works automatically. Players will no longer encounter
 ## Compatibility
 This plugin is compatible with Minecraft 1.21 and later versions. It may work with future versions as long as the anvil mechanics remain unchanged.
 
-## License
-This plugin is open-source and available under the MIT License.
 
